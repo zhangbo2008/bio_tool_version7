@@ -6,3 +6,4 @@ fix the linenumber problem when wordwrap with scrollmouse.
          Run the newest version just python 888触发菜单版本.py
         fix the linenumber problem when wordwrap with scrollmouse.
           Run the newest version just python 888触发菜单版本.py
+
